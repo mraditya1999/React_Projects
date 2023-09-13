@@ -1,6 +1,6 @@
 # GROCERY BUD
 
-[![Grocery Bud](./design/10-grocery-bud.png)](https://react-10-grocery-bud.netlify.app)
+[![Grocery Bud](./design/10-grocery-bud.png)](https://react-10-grocery-buds.netlify.app)
 
 ## Steps
 

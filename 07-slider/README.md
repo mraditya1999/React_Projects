@@ -1,6 +1,6 @@
 # SLIDER
 
-[![Slider](./design/07-slider.png)](https://react-07-slider.netlify.app)
+[![Slider](./design/07-slider.png)](https://react-07-sliders.netlify.app)
 
 ## Figma URL
 

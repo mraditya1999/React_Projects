@@ -1,6 +1,6 @@
 # REVIEWS
 
-[![Reviews](./design/03-reviews.png)](https://react-03-reviews.netlify.app)
+[![Reviews](./design/03-reviews.png)](https://react-03-reviewss.netlify.app)
 
 ## Figma URL
 

@@ -1,6 +1,6 @@
 # ACCORDION
 
-[![Accordion](./design/04-accordion.png)](https://react-04-accordion.netlify.app)
+[![Accordion](./design/04-accordion.png)](https://react-04-accordions.netlify.app)
 
 ## Steps
 

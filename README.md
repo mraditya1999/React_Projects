@@ -39,15 +39,15 @@ Feel free to explore and contribute to projects that intrigue you, and challenge
 Experience the magic of these projects by exploring their live demos:
 
 1. [Birthday Buddy](https://react-01-birthday-buddy.netlify.app)
-2. [Tours](https://react-02-tours.netlify.app)
-3. [Reviews](https://react-03-reviews.netlify.app)
-4. [accordion](https://react-04-accordion.netlify.app)
-5. [menu](https://react-05-menu.netlify.app)
-6. [tabs](https://react-06-tabs.netlify.app)
-7. [slider](https://react-07-slider.netlify.app)
-8. [lorem Ipsum](https://react-08-lorem-ipsum.netlify.app)
-9. [Color generator](https://react-09-color-generator.netlify.app)
-10. [Grocery Bud](https://react-10-grocery-bud.netlify.app)
+2. [Tours](https://react-02-tourss.netlify.app)
+3. [Reviews](https://react-03-reviewss.netlify.app)
+4. [accordion](https://react-04-accordions.netlify.app)
+5. [menu](https://react-05-menus.netlify.app)
+6. [tabs](https://react-06-tabss.netlify.app)
+7. [slider](https://react-07-sliders.netlify.app)
+8. [lorem Ipsum](https://react-08-lorem-ipsums.netlify.app)
+9. [Color generator](https://react-09-color-generators.netlify.app)
+10. [Grocery Bud](https://react-10-grocery-buds.netlify.app)
 
 ## Contributing 🥳🎉
 

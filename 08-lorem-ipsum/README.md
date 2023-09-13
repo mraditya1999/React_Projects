@@ -1,6 +1,6 @@
 # LOREM IPSUM
 
-[![Lorem Ipsum](./design/08-lorem-ipsum.png)](https://react-08-lorem-ipsum.netlify.app)
+[![Lorem Ipsum](./design/08-lorem-ipsum.png)](https://react-08-lorem-ipsums.netlify.app)
 
 ## Steps
 

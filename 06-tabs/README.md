@@ -1,6 +1,6 @@
 # TABS
 
-[![tabs](./design/06-tabs.png)](https://react-06-tabs.netlify.app)
+[![tabs](./design/06-tabs.png)](https://react-06-tabss.netlify.app)
 
 ## Steps
 

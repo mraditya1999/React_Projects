@@ -1,6 +1,6 @@
 # TOURS
 
-[![Tours](./design/02-tours.png)](https://react-02-tours.netlify.app)
+[![Tours](./design/02-tours.png)](https://react-02-tourss.netlify.app)
 
 ## Steps
 

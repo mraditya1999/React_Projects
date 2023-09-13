@@ -1,6 +1,6 @@
 # COLOR GENERATOR
 
-[![Color Generator](./design/09-color-generator.png)](https://react-09-color-generator.netlify.app)
+[![Color Generator](./design/09-color-generator.png)](https://react-09-color-generators.netlify.app)
 
 ## Steps
 
