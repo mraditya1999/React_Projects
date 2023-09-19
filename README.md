@@ -49,7 +49,7 @@ Experience the magic of these projects by exploring their live demos:
 9. [Color generator](https://react-09-color-generators.netlify.app)
 10. [Grocery Bud](https://react-10-grocery-buds.netlify.app)
 11. [Navbar](https://react-11-navbars.netlify.app)
-12. [Sidebar](https://react-12-sidebars.netlify.app)
+12. [Sidebar and Modal](https://react-12-sidebars.netlify.app)
 13. [Strapi Submenu](https://react-13-strapi-submenus.netlify.app)
 14. [Cart](https://react-14-carts.netlify.app)
 
