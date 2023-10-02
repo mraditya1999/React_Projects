@@ -1,6 +1,6 @@
-## Figma URL
+# UNSPLASH IMAGES
 
-[Unsplash Images](https://www.figma.com/file/O2MaAAlr4nznh7m53azatL/Unsplash-images?node-id=0%3A1&t=cYDOCgqOs9IX2If0-1)
+[![Unsplash Images](./design/15-unsplash-images.png)](https://react-15-unsplash-images.netlify.app)
 
 ## Steps
 
@@ -161,3 +161,11 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 #### Vite ENV Vars
 
 - .env : must be included in .gitignore
+
+## Author
+
+- Portfolio - [@mraditya1999](https://www.adityayadav.live)
+- Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
+- Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
+- Medium - [@mraditya1999](https://medium.com/@mraditya1999)
+- Frontend Mentor - [@mraditya1999](https://www.frontendmentor.io/profile/Aditya-oss-creator)
