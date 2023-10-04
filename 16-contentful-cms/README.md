@@ -1,6 +1,6 @@
 # CONTENTFUL CMS
 
-[![Contentful CMS](./design/16-contentful-cms.png)](https://react-16-16-contentful-cms.netlify.app)
+[![Contentful CMS](./design/16-contentful-cms.png)](https://react-16-contentful-cms.netlify.app)
 
 ## Steps
 
@@ -44,7 +44,6 @@ Setup content type and create few entries
 Get Space ID, Access Token and explore code examples.
 
 Space ID - nk6zx4s0ala4
-Access Token - Sgf3j3AjrFPe3MmmlBRP8b302NLyHvA7wF4Gg5dtZI0
 
 #### Install SDK
 
