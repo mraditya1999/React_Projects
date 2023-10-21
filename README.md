@@ -55,6 +55,7 @@ Experience the magic of these projects by exploring their live demos:
 15. [Unsplash Images](https://react-15-unsplash-images.netlify.app)
 16. [contentful CMS](https://react-16-contentful-cmss.netlify.app)
 17. [Mixmaster](https://react-17-mixmaster.netlify.app)
+18. [Tailwind Portfolio](https://react-18-tailwind-portfolio.netlify.app)
 
 ## Contributing 🥳🎉
 
