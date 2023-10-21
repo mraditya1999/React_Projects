@@ -53,6 +53,8 @@ Experience the magic of these projects by exploring their live demos:
 13. [Strapi Submenu](https://react-13-strapi-submenus.netlify.app)
 14. [Cart](https://react-14-carts.netlify.app)
 15. [Unsplash Images](https://react-15-unsplash-images.netlify.app)
+16. [contentful CMS](https://react-16-contentful-cms.netlify.app)
+17. [Mixmaster](https://react-17-mixmaster.netlify.app)
 
 ## Contributing 🥳🎉
 
