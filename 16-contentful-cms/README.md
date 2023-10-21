@@ -1,6 +1,6 @@
 # CONTENTFUL CMS
 
-[![Contentful CMS](./design/16-contentful-cms.png)](https://react-16-contentful-cms.netlify.app)
+[![Contentful CMS](./design/16-contentful-cms.png)](https://react-16-contentful-cmss.netlify.app)
 
 ## Steps
 
