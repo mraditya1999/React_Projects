@@ -56,6 +56,7 @@ Experience the magic of these projects by exploring their live demos:
 16. [contentful CMS](https://react-16-contentful-cmss.netlify.app)
 17. [Mixmaster](https://react-17-mixmaster.netlify.app)
 18. [Tailwind Portfolio](https://react-18-tailwind-portfolio.netlify.app)
+19. [Nike Landing Page](https://react-19-nike-landing-page.netlify.app)
 
 ## Contributing 🥳🎉
 
