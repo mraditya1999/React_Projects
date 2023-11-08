@@ -57,6 +57,12 @@ Experience the magic of these projects by exploring their live demos:
 17. [Mixmaster](https://react-17-mixmaster.netlify.app)
 18. [Tailwind Portfolio](https://react-18-tailwind-portfolio.netlify.app)
 19. [Nike Landing Page](https://react-19-nike-landing-page.netlify.app)
+20. [HooBank Landing Page](https://react-20-hoobank-landing-page.netlify.app)
+21. [Color Flipper](https://react-21-color-flipper.netlify.app)
+22. [Password Generator](https://react-22-password-generator.netlify.app)
+23. [LMS Landing Page](https://react-24-lms-landing-page.netlify.app)
+24. [Github User Search](https://react-25-github-user-search.netlify.app)
+25. [Pomodoro Timer App](https://react-26-pomodoro-timer-app.netlify.app)
 
 ## Contributing 🥳🎉
 

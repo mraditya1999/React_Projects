@@ -1,0 +1,22 @@
+# COLOR FLIPPER
+
+[![Color Flipper](./design/21-color-flipper.jpeg)](https://react-21-color-flipper.netlify.app)
+
+Color Flipper is a simple React application that allows users to generate random colors.
+
+## Installation
+
+```bash
+git clone https://github.com/your-repo/color-flipper.git
+cd color-flipper
+npm install
+npm start
+```
+
+## Author
+
+- Portfolio - [@mraditya1999](https://www.adityayadav.live)
+- Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
+- Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
+- Medium - [@mraditya1999](https://medium.com/@mraditya1999)
+- Frontend Mentor - [@mraditya1999](https://www.frontendmentor.io/profile/Aditya-oss-creator)
