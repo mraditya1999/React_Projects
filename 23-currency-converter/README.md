@@ -1,6 +1,6 @@
 # CURRENCY CONVERTER APP
 
-[![Currency Converter App](./design/23-currency-converter.jpeg)](https://react-23-currency-converter-app.netlify.app)
+[![Currency Converter App](./design/23-currency-converter.jpeg)](https://react-23-currency-converter.netlify.app)
 
 This is a simple Currency Converter app, designed to help you convert between different currencies quickly and easily. The app is built with modern technologies and uses real-time exchange rates.
 
