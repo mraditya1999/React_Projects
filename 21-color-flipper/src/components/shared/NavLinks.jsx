@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom';
 
-const NavLinks = ({ linksClassName }) => {
+const NavLinks = ({ linksClassName, closeSidebar }) => {
   const data = ['simple', 'hex', 'rgb', 'hsl'];
   const linkClassName =
     linksClassName === 'sidebar-links' ? 'sidebar-link' : 'navbar-link';
@@ -11,7 +11,7 @@ const NavLinks = ({ linksClassName }) => {
     <ul className={linksClassName}>
       {data.map((item) => {
         return (
-          <li key={item}>
+          <li key={item} onClick={closeSidebar}>
             <NavLink
               style={({ isActive }) => (isActive ? activeLinkStyles : null)}
               to={item === 'simple' ? '.' : item}

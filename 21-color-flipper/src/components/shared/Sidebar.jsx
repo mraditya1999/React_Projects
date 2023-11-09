@@ -8,7 +8,7 @@ const Sidebar = React.memo(({ isSidebarOpen, closeSidebar }) => {
         <i className='fa-solid fa-xmark'></i>
       </button>
 
-      <NavLinks linksClassName='sidebar-links' />
+      <NavLinks linksClassName='sidebar-links' closeSidebar={closeSidebar} />
     </aside>
   );
 });

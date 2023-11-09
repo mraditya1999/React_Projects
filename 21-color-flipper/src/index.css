@@ -300,13 +300,15 @@ main {
 }
 
 .sidebar-links li {
-  padding: 1rem 0.75rem;
   transition: var(--transition);
 }
 
 .sidebar-link {
+  padding: 1rem 0.75rem;
   text-transform: uppercase;
+  display: block;
   color: var(--clr-grey-5);
+  width: 100%;
 }
 
 .sidebar-links li:hover {

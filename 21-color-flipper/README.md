@@ -4,6 +4,11 @@
 
 Color Flipper is a simple React application that allows users to generate random colors.
 
+## Features
+
+- Navigation using `react-router-dom`
+- Generation of multiple color values: static, hex, hsl, rgb
+
 ## Installation
 
 ```bash
