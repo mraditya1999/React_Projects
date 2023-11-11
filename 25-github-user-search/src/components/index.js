@@ -1,6 +1,7 @@
-import Loader from './Loader';
-import ErrorMessage from './ErrorMessage';
-import UserSearch from './UserSearch';
-import UserInfo from './UserInfo';
+import Info from "./Info";
+import Repos from "./Repos";
+import User from "./User";
+import Search from "./Search";
+import Navbar from "./Navbar";
 
-export { Loader, ErrorMessage, UserSearch, UserInfo };
+export { Info, Repos, User, Search, Navbar };
