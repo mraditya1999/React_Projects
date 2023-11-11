@@ -1,48 +1,40 @@
-## Starter Project
+# Github User Search - React + Tailwind CSS
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+[![Github User Search](./design/github-user.jpeg)](https://react-25-github-user-search.netlify.app)
 
-## Styled Components
+This project is a Github User Search application built using React.js and the Github API.
 
-[Styled-Components - Main Docs](https://styled-components.com/)
+## Features
 
-```jsx
-import styled from "styled-components";
+- Search Github users by username
+- View user details including public repos, followers, following, and more
+- Responsive design
 
-const ReactComponent = () => {
- // logic here
- return <Wrapper>
- {some content}
- </Wrapper>
-}
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-const Wrapper = styled.htmlElement`
-write your styles here
-`
-export default ReactComponent
+### Prerequisites
+
+- Node.js installed on your local system
+- NPM (Node Package Manager) installed on your local system
+
+### Installation
+
+```bash
+# clone the repository
+git clone https://github.com/your-repo/github-user-search.git
+
+# Navigate to the project directory
+cd github-user-search
+
+# Install the project dependencies
+npm install
+
+# Start the application
+npm start
+
 ```
-
-## React Icons
-
-[React Icons - Main Docs](https://react-icons.github.io/react-icons/)
-
-```jsx
-import { FiUsers, FiUserPlus } from 'react-icons/fi';
-<FiUsers className='nameOfTheClass'> </FiUsers>;
-```
-
-## React Router Dom
-
-version used - "react-router-dom": "^5.2.0",
-
-- [react-router-dom - Main Docs](https://reactrouter.com/web/guides/quick-start)
-
-- <Switch> renders the first child <Route> that matches
-- A <Route path="*"> always matches
 
 ## Gihthub API
 
@@ -99,17 +91,12 @@ In order for routing to work on netlify, redirects was added to the public folde
 ```
 
 /*    /index.html   200
-
 ```
 
-[Redirects Blog Post](https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc)
+## Author
 
-#### Warnings and create-react-app
-
-package.json
-
-```js
-"build": "CI= react-scripts build",
-```
-
-[create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+- Portfolio - [@mraditya1999](https://www.adityayadav.live)
+- Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
+- Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
+- Medium - [@mraditya1999](https://medium.com/@mraditya1999)
+- Frontend Mentor - [@mraditya1999](https://www.frontendmentor.io/profile/Aditya-oss-creator)
