@@ -64,6 +64,7 @@ Experience the magic of these projects by exploring their live demos:
 24. [LMS Landing Page](https://react-24-lms-landing-page.netlify.app)
 25. [Github User Search](https://react-25-github-user-search.netlify.app)
 26. [Pomodoro Timer App](https://react-26-pomodoro-timer-app.netlify.app)
+27. [Watches Website](https://react-27-watch-website.netlify.app)
 
 ## Contributing 🥳🎉
 
