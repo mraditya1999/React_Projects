@@ -14,7 +14,7 @@ const Achievement = () => {
             Various versions have evolved over the years, sometimes by accident.
           </p>
 
-          <div className='grid grid-cols-2 py-16 gap-4'>
+          <div className='grid  sm:grid-cols-2 py-16 gap-4'>
             {achievements.map((achievement) => (
               <AchievementCard key={achievement.id} {...achievement} />
             ))}

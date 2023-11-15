@@ -65,6 +65,7 @@ Experience the magic of these projects by exploring their live demos:
 25. [Github User Search](https://react-25-github-user-search.netlify.app)
 26. [Pomodoro Timer App](https://react-26-pomodoro-timer-app.netlify.app)
 27. [Watches Website](https://react-27-watch-website.netlify.app)
+28. [Real Estate Website](https://react-28-real-estate-website.netlify.app)
 
 ## Contributing 🥳🎉
 
