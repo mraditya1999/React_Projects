@@ -2,7 +2,7 @@ import r1 from '../assets/r1.png';
 import r2 from '../assets/r2.png';
 import r3 from '../assets/r3.png';
 
-export const sliderData = [
+const sliderData = [
   {
     name: 'Aliva Priva Jardin',
     price: '47,043',
@@ -46,3 +46,5 @@ export const sliderData = [
     image: r3,
   },
 ];
+
+export default sliderData;
