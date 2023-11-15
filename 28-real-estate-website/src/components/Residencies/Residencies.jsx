@@ -1,7 +1,7 @@
 import { Swiper, SwiperSlide, useSwiper } from 'swiper/react';
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 
-import data from '../../utils/slider.json';
+import sliderData from '../../utils/slider';
 import { sliderSettings } from '../../utils/common';
 import 'swiper/css';
 import './Residencies.css';
@@ -17,7 +17,7 @@ const Residencies = () => {
 
         <Swiper {...sliderSettings}>
           <SliderButtons />
-          {data.map((card, index) => {
+          {sliderData.map((card, index) => {
             return (
               <SwiperSlide key={index}>
                 <div className='flexColStart r-card'>
