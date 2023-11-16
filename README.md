@@ -66,6 +66,7 @@ Experience the magic of these projects by exploring their live demos:
 26. [Pomodoro Timer App](https://react-26-pomodoro-timer-app.netlify.app)
 27. [Watches Website](https://react-27-watch-website.netlify.app)
 28. [Real Estate Website](https://react-28-real-estate-website.netlify.app)
+29. [Taskify](https://react-29-taskify-app.netlify.app)
 
 ## Contributing 🥳🎉
 

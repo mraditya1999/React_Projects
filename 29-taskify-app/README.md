@@ -1,6 +1,6 @@
 # TASKIFY APP
 
-[![Taskify App](./design/react-29-taskify.jpeg)](https://react-29-taskify.netlify.app)
+[![Taskify App](./design/react-29-taskify.jpeg)](https://react-29-taskify-app.netlify.app)
 
 This is a comprehensive Todo App, designed to manage your daily tasks. The app is built with modern technologies and provides a user-friendly interface.
 
