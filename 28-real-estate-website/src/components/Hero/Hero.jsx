@@ -25,7 +25,7 @@ const Hero = () => {
             </span>
           </div>
 
-          <div className='flexCenter search-bar'>
+          <div className='search-bar'>
             <HiLocationMarker color='var(--blue)' size={25} />
             <input type='text' />
             <button className='button'>Search</button>

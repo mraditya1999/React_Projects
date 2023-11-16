@@ -57,7 +57,7 @@ const Value = () => {
                 >
                   <AccordionItemHeading>
                     <AccordionItemButton
-                      className='flexCenter accordionButton'
+                      className='accordionButton'
                       onClick={toggleClassName}
                     >
                       <div className='flexCenter icon'>{icon}</div>
