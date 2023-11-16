@@ -8,7 +8,10 @@ const TaskItem = ({ id, task, isCompleted }) => {
   const { updateTask, deleteTask, toggleIsCompleted } = useTaskContext();
 
   const editTask = () => {
-    updateTask(id, { id, isCompleted, task: taskMsg });
+    const trimmedTaskMsg = taskMsg.trim();
+    if (trimmedTaskMsg && trimmedTaskMsg !== task) {
+      updateTask(id, { id, isCompleted, task: trimmedTaskMsg });
+    }
     setIsEditable(false);
   };
 

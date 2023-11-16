@@ -1,3 +1,4 @@
+import { ToastContainer, toast } from 'react-toastify';
 import { useTaskContext } from './contexts';
 import { TaskForm, TaskItem } from './components';
 
@@ -5,6 +6,12 @@ const App = () => {
   const { tasks } = useTaskContext();
   return (
     <div className='bg-[#172842] min-h-screen py-8'>
+      <ToastContainer
+        position='top-center'
+        autoClose={500}
+        draggable={false}
+        pauseOnHover={false}
+      />
       <h1 className='text-4xl font-bold text-center my-6 uppercase text-white'>
         Taskify
       </h1>
@@ -14,13 +21,17 @@ const App = () => {
           <TaskForm />
         </div>
         <div className='flex flex-wrap gap-y-3'>
-          {tasks.map((task) => {
-            return (
+          {tasks.length > 0 ? (
+            tasks.map((task) => (
               <div key={task.id} className='w-full'>
                 <TaskItem {...task} />
               </div>
-            );
-          })}
+            ))
+          ) : (
+            <p className='text-center w-full capitalize mt-8'>
+              No tasks to display
+            </p>
+          )}
         </div>
       </div>
     </div>

@@ -1,5 +1,7 @@
 import { useTaskContext } from '../contexts';
 import { useState } from 'react';
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const TaskForm = () => {
   const [task, setTask] = useState('');
@@ -7,7 +9,15 @@ const TaskForm = () => {
 
   const addTask = (e) => {
     e.preventDefault();
-    if (!task) return;
+    const trimmedTask = task.trim();
+    if (!trimmedTask) {
+      toast.error('Input field is required!');
+      return;
+    }
+    if (trimmedTask.length > 50) {
+      toast.error('Task is too long!');
+      return;
+    }
     createTask({ task: task, isCompleted: false });
     setTask('');
   };
@@ -20,6 +30,7 @@ const TaskForm = () => {
         className='w-full border text-gray-900 capitalize rounded-l-md px-3 outline-none duration-300 bg-gray-100 py-1.5'
         value={task}
         onChange={(e) => setTask(e.target.value)}
+        maxLength={50}
       />
       <button
         type='submit'
