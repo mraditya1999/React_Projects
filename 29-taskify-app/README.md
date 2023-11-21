@@ -9,6 +9,7 @@ This is a comprehensive Todo App, designed to manage your daily tasks. The app i
 - React.js
 - Tailwind CSS
 - Context API
+- Redux Toolkit
 
 ## Getting Started
 

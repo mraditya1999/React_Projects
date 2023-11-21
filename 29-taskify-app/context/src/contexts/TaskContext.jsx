@@ -1,4 +1,5 @@
 import { createContext, useContext, useEffect, useState } from 'react';
+import { nanoid } from 'nanoid';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -31,7 +32,7 @@ export const TaskContextProvider = ({ children }) => {
       toast.error('Task already exists!');
       return;
     }
-    setTasks((prev) => [{ id: Date.now(), ...task }, ...prev]);
+    setTasks((prev) => [{ id: nanoid(), ...task }, ...prev]);
     toast.success('Task added successfully!');
   };
 
@@ -53,6 +54,7 @@ export const TaskContextProvider = ({ children }) => {
       });
     });
   };
+
   const deleteTask = (id) => {
     setTasks((prev) => prev.filter((task) => task.id !== id));
     toast.success('Task Deleted Successfully!');
