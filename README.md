@@ -72,3 +72,11 @@ Experience the magic of these projects by exploring their live demos:
 ## Contributing 🥳🎉
 
 I wholeheartedly welcome and appreciate your contributions to the React Projects! Whether you're fixing bugs, adding exciting features, or creating entirely new projects, your input is invaluable. Feel free to fork this repository and submit pull requests to make this collection even more remarkable.
+
+## Author
+
+- Portfolio - [@mraditya1999](https://www.adityayadav.live)
+- Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
+- Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
+- Medium - [@mraditya1999](https://medium.com/@mraditya1999)
+- Frontend Mentor - [@mraditya1999](https://www.frontendmentor.io/profile/Aditya-oss-creator)

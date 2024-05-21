@@ -1,4 +1,4 @@
-const url = 'https://course-api.com/react-tabs-project';
+const url = 'https://www.course-api.com/react-tabs-project';
 import { useState, useEffect } from 'react';
 
 import Loading from './components/Loading';
