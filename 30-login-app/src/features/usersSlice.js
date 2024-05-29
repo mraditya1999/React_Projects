@@ -7,7 +7,7 @@ const initialState = {
   isError: false,
 };
 
-export const fetchAllUsers = createAsyncThunk('users/getUsers', async () => {
+export const fetchAllUsers = createAsyncThunk('users', async () => {
   const { data } = await axios.get(import.meta.env.VITE_API_URL + `/users`);
   return data.users;
 });
