@@ -22,7 +22,7 @@ export default {
   site_admin: false,
   name: 'Aditya Yadav',
   company: null,
-  blog: 'https://www.adityayadav.live',
+  blog: 'https://adityayadav-dev.netlify.app',
   location: 'Prayagraj',
   email: null,
   hireable: true,

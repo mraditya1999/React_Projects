@@ -7,22 +7,40 @@ import {
 import { Dashboard, Login, PrivateRoute, AuthWrapper, Error } from './pages';
 import { GithubProvider } from './context/context';
 
-const router = createBrowserRouter(
-  createRoutesFromElements(
-    <Route path='/'>
-      <Route
-        index
-        element={
-          <PrivateRoute>
-            <Dashboard />
-          </PrivateRoute>
-        }
-      />
-      <Route path='/login' element={<Login />} />
-      <Route path='*' element={<Error />} />
-    </Route>
-  )
-);
+// const router = createBrowserRouter(
+//   createRoutesFromElements(
+//     <Route path='/'>
+//       <Route
+//         index
+//         element={
+//           <PrivateRoute>
+//             <Dashboard />
+//           </PrivateRoute>
+//         }
+//       />
+//       <Route path='/login' element={<Login />} />
+//       <Route path='*' element={<Error />} />
+//     </Route>
+//   )
+// );
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: (
+      <PrivateRoute>
+        <Dashboard />
+      </PrivateRoute>
+    ),
+  },
+  {
+    path: '/login',
+    element: <Login />,
+  },
+  {
+    path: '*',
+    element: <Error />,
+  },
+]);
 
 const App = () => {
   return (
