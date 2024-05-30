@@ -75,6 +75,7 @@ hr {
   border: none;
   border-top: 1px solid var(--clr-grey-8);
 }
+
 h1,
 h2,
 h3,
@@ -103,6 +104,9 @@ h5 {
 p {
   margin-bottom: 1.25rem;
   color: var(--clr-grey-3);
+}
+button {
+  font-family: inherit;
 }
 @media screen and (min-width: 800px) {
   h1 {

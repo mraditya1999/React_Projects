@@ -1,9 +1,7 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
-const stripe = require('stripe')(
-  `sk_test_51PLfg2SFFhZvTaelobi7snmJs3h6hU9DxBo3WP3PXINFN4LFGEQkFWfdIv6w9vjYysexNR7HiCQudbEjcBHgSh9L00LW4KOamE`
-);
+const stripe = require('stripe')(process.env.VITE_STRIPE_SECRET_KEY);
 
 export async function handler(event, context) {
   const { cart, shipping_fee, total_amount } = JSON.parse(event.body);
